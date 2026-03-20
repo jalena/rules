@@ -1,0 +1,2 @@
+# rules
+mihomo rules
