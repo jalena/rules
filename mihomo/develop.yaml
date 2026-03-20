@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN-SUFFIX,gradle.org
+  - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,jitpack.io
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,hub.docker.com
+  - DOMAIN-SUFFIX,registry-1.docker.io
+  - DOMAIN-SUFFIX,jsdelivr.net
