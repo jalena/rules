@@ -1,2 +1,4 @@
 [AutoProxy 0.2.9]
+||gstatic.com
 ||esm.sh
+@@google-analytics.com
