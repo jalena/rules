@@ -1,5 +1,17 @@
 payload:
-  - DOMAIN-SUFFIX,winget.microsoft.com
-  - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,office.net
+  - DOMAIN-SUFFIX,outlook.com
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,skype.com
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,onenote.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-KEYWORD,winget
+  - DOMAIN-SUFFIX,mp.microsoft.com
+  - DOMAIN-SUFFIX,cdn.microsoft.com
+  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+  - DOMAIN-SUFFIX,winget.microsoft.com
