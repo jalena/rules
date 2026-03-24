@@ -52,6 +52,8 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,google-analytics.com
 
   # ===== 关键词补充（AI开发常见）=====
   - DOMAIN-KEYWORD,colab
