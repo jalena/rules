@@ -1,40 +1,41 @@
-! ===== Gemini / 谷歌 AI 生态 =====
-||gemini.google.com
-||bard.google.com
-||deepmind.com
-||deepmind.google
+payload:
+  # ===== Gemini / 谷歌 AI 生态 =====
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
 
-! ===== 谷歌 AI & 核心 API =====
-||ai.google.dev
-||generativeai.google
-||generativelanguage.googleapis.com
-||proactivebackend-pa.googleapis.com
+  # ===== 谷歌 AI & 核心 API =====
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
-! ===== Google 开发者工具 & 平台 =====
-||makersuite.google.com
-||alkalimakersuite-pa.clients6.google.com
-colab
+  # ===== Google 开发者工具 & 平台 =====
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN-KEYWORD,colab
 
-! ===== Android 开发与下载 =====
-||android.com
-||dl.google.com
-||source.android.com
-||developer.android.com
+  # ===== Android 开发与下载 =====
+  - DOMAIN-SUFFIX,android.com
+  - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,source.android.com
+  - DOMAIN-SUFFIX,developer.android.com
 
-! ===== 5. Google 基础依赖与分析 (必须) =====
-||googleapis.com
-||apis.google.com
-||googletagmanager.com
-||google-analytics.com
-||googleusercontent.com
+  # ===== 5. Google 基础依赖与分析 (必须) =====
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN-SUFFIX,google-analytics.com
+  - DOMAIN-SUFFIX,googleusercontent.com
 
-! ===== Google 核心搜索与日常服务 =====
-||google.com^
-||googlevideo.com
-||youtube.com
-||ytimg.com
-||gmail.com
-||gstatic.com
+  # ===== Google 核心搜索与日常服务 =====
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ytimg.com
+  - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN-SUFFIX,gstatic.com
 
-! ===== 关键词兜底 =====
-google
+  # ===== 关键词兜底 =====
+  - DOMAIN-KEYWORD,google
