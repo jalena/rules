@@ -1,17 +1,23 @@
-payload:
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office.net
-  - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,skype.com
-  - DOMAIN-SUFFIX,visualstudio.com
-  - DOMAIN-SUFFIX,onenote.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,xbox.com
-  - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,mp.microsoft.com
-  - DOMAIN-SUFFIX,cdn.microsoft.com
-  - DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
-  - DOMAIN-SUFFIX,winget.microsoft.com
+! ===== 微软核心与生产力 =====
+||microsoft.com
+||live.com
+||office.com
+||office.net
+||outlook.com
+||sharepoint.com
+||onenote.com
+
+! ===== 开发与系统服务 =====
+||visualstudio.com
+||windows.com
+||winget.microsoft.com
+
+! ===== 微软 CDN、边缘网络与下载 =====
+||azureedge.net
+||mp.microsoft.com
+||cdn.microsoft.com
+||dl.delivery.mp.microsoft.com
+
+! ===== 娱乐 =====
+||xbox.com
+||skype.com
