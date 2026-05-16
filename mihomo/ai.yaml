@@ -1,48 +1,47 @@
-! ===== OpenAI 核心 =====
-||openai.com
-||chatgpt.com
-||oaistatic.com
-||oaiusercontent.com
+payload:
+  # ===== OpenAI 核心 =====
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
 
-! ===== OpenAI API / 边缘网络 =====
-||openai-api.arkoselabs.com
-||arkoselabs.com
-||azureedge.net
-||blob.core.windows.net
+  # ===== OpenAI API / 边缘网络 =====
+  - DOMAIN-SUFFIX,openai-api.arkoselabs.com
+  - DOMAIN-SUFFIX,arkoselabs.com
+  - DOMAIN-SUFFIX,azureedge.net
+  - DOMAIN-SUFFIX,blob.core.windows.net
 
-! ===== OpenAI CDN / 加速 =====
-||cdn.cloudflare.net
-||openaicom.imgix.net
+  # ===== OpenAI CDN / 加速 =====
+  - DOMAIN-SUFFIX,cdn.cloudflare.net
+  - DOMAIN-SUFFIX,openaicom.imgix.net
 
-! ===== OpenAI 实时通信（语音/流式）=====
-||livekit.cloud
-||turn.livekit.cloud
+  # ===== OpenAI 实时通信（语音/流式）=====
+  - DOMAIN-SUFFIX,livekit.cloud
+  - DOMAIN-SUFFIX,turn.livekit.cloud
 
-! ===== OpenAI 依赖服务 =====
-||auth0.com
-||stripe.com
-||intercom.io
-||intercomcdn.com
-||segment.io
-||sentry.io
-||statsig.com
-||statsigapi.net
+  # ===== OpenAI 依赖服务 =====
+  - DOMAIN-SUFFIX,auth0.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,statsig.com
+  - DOMAIN-SUFFIX,statsigapi.net
 
-! ===== OpenAI 泛匹配（兜底）=====
-openai
+  # ===== Google Gemini / AI =====
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
 
-! ===== Google Gemini / AI =====
-||gemini.google.com
-||bard.google.com
-||deepmind.com
-||deepmind.google
+  # ===== Google AI API =====
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
-! ===== Google AI API =====
-||ai.google.dev
-||generativeai.google
-||generativelanguage.googleapis.com
-||proactivebackend-pa.googleapis.com
-
-! ===== 关键词补充（AI开发常见）=====
-colab
-generativelanguage
+  # ===== 关键词补充（AI开发常见）与泛匹配 =====
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,generativelanguage
