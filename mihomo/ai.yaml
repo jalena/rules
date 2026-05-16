@@ -43,17 +43,6 @@ openai
 ||generativelanguage.googleapis.com
 ||proactivebackend-pa.googleapis.com
 
-! ===== Google 开发工具 =====
-||makersuite.google.com
-||alkalimakersuite-pa.clients6.google.com
-
-! ===== Google 通用依赖（必须）=====
-||googleapis.com
-||gstatic.com
-||apis.google.com
-||googletagmanager.com
-||google-analytics.com
-
 ! ===== 关键词补充（AI开发常见）=====
 colab
 generativelanguage
