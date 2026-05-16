@@ -1,6 +1,3 @@
-! ===== 强制直连 (白名单) =====
-@@||gstatic.com
-
 ! ===== Gemini / 谷歌 AI 生态 =====
 ||gemini.google.com
 ||bard.google.com
@@ -32,11 +29,12 @@ colab
 ||googleusercontent.com
 
 ! ===== Google 核心搜索与日常服务 =====
-||google.com
+||google.com^
 ||googlevideo.com
 ||youtube.com
 ||ytimg.com
 ||gmail.com
+||gstatic.com
 
 ! ===== 关键词兜底 =====
 google
