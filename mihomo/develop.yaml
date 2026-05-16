@@ -1,20 +1,32 @@
-payload:
-  - DOMAIN-SUFFIX,gradle.org
-  - DOMAIN-SUFFIX,maven.org
-  - DOMAIN-SUFFIX,apache.org
-  - DOMAIN-SUFFIX,jitpack.io
-  - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,intellij.net
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,githubusercontent.com
-  - DOMAIN-SUFFIX,githubassets.com
-  - DOMAIN-SUFFIX,githubcopilot.com
-  - DOMAIN-SUFFIX,android.com
-  - DOMAIN-SUFFIX,dl.google.com
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,hub.docker.com
-  - DOMAIN-SUFFIX,registry-1.docker.io
-  - DOMAIN-SUFFIX,jsdelivr.net
-  - DOMAIN-SUFFIX,esm.sh
-  - DOMAIN-KEYWORD,github
+! ===== 编译构建与依赖仓库 =====
+||gradle.org
+||maven.org
+||apache.org
+||jitpack.io
+
+! ===== 开发工具与 IDE =====
+||jetbrains.com
+||intellij.net
+
+! ===== GitHub 生态 =====
+||github.com
+||githubusercontent.com
+||githubassets.com
+||githubcopilot.com
+
+! ===== Android 开发 =====
+||android.com
+||dl.google.com
+
+! ===== Docker 生态 =====
+||docker.com
+||docker.io
+||hub.docker.com
+||registry-1.docker.io
+
+! ===== 前端 CDN =====
+||jsdelivr.net
+||esm.sh
+
+! ===== 关键词兜底 =====
+github
