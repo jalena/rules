@@ -36,4 +36,4 @@ payload:
 
   # ===== 关键词兜底 =====
   - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,google
+  #- DOMAIN-KEYWORD,google
