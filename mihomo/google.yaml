@@ -14,7 +14,6 @@ payload:
   # ===== Google 开发者工具 & 平台 =====
   - DOMAIN-SUFFIX,makersuite.google.com
   - DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
-  - DOMAIN-KEYWORD,colab
 
   # ===== Android 开发与下载 =====
   - DOMAIN-SUFFIX,android.com
@@ -28,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,googletagmanager.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,nel.goog
 
   # ===== Google 核心搜索与日常服务 =====
   - DOMAIN-SUFFIX,google.com
@@ -35,4 +35,5 @@ payload:
   - DOMAIN-SUFFIX,gstatic.com
 
   # ===== 关键词兜底 =====
+  - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,google
