@@ -41,7 +41,24 @@ payload:
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
+  # ===== Claude / Anthropic =====
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,clau.de
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN,api.anthropic.com
+  - DOMAIN,console.anthropic.com
+  - DOMAIN,statsig.anthropic.com
+
+  # ===== Claude 依赖 =====
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,sentry.io
+
   # ===== 关键词补充（AI开发常见）与泛匹配 =====
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,gemini
   - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,anthropic
+  - DOMAIN-KEYWORD,claude
   - DOMAIN-KEYWORD,generativelanguage
