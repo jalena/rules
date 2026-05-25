@@ -31,9 +31,6 @@ payload:
 
   # ===== Google 核心搜索与日常服务 =====
   - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,gmail.com
   - DOMAIN-SUFFIX,gstatic.com
 
