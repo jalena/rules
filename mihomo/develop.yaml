@@ -14,8 +14,6 @@ payload:
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,githubassets.com
   - DOMAIN-SUFFIX,githubcopilot.com
-  - DOMAIN-SUFFIX,collector.github.com
-  - DOMAIN,github.com
 
   # ===== Android 开发 =====
   - DOMAIN-SUFFIX,android.com
@@ -24,8 +22,6 @@ payload:
   # ===== Docker 生态 =====
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
-  - DOMAIN-SUFFIX,hub.docker.com
-  - DOMAIN-SUFFIX,registry-1.docker.io
 
   # ===== 前端 CDN =====
   - DOMAIN-SUFFIX,jsdelivr.net
@@ -33,3 +29,8 @@ payload:
 
   # ===== 关键词兜底 =====
   - DOMAIN-KEYWORD,github
+
+	# ===== 多级匹配 =====
+	- "+.github.com"
+	- "+.docker.com"
+	- "+.docker.io"
