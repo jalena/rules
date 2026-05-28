@@ -12,7 +12,6 @@ payload:
   # ===== Google 开发者工具 & 平台 =====
   - DOMAIN-SUFFIX,makersuite.google.com
 
-
   # ===== Android 开发与下载 =====
   - DOMAIN-SUFFIX,android.com
   - DOMAIN-SUFFIX,dl.google.com
