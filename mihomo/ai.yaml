@@ -31,6 +31,7 @@ payload:
 
   # ===== Google Gemini / AI =====
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,antigravity.google
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
