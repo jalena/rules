@@ -2,6 +2,7 @@ payload:
   # ===== 微软核心与生产力 =====
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,office.net
