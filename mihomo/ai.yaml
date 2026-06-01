@@ -35,6 +35,7 @@ payload:
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,antigravity-unleash.goog
 
   # ===== Google AI API =====
   - DOMAIN-SUFFIX,ai.google.dev
