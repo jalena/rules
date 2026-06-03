@@ -1,66 +1,35 @@
 payload:
-  # ===== OpenAI 核心 =====
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,chatgpt.com
-  - DOMAIN-SUFFIX,oaistatic.com
-  - DOMAIN-SUFFIX,oaiusercontent.com
+  # OpenAI
+  - +.openai.com
+  - +.chatgpt.com
+  - +.oaistatic.com
+  - +.oaiusercontent.com
+  - +.arkoselabs.com
+  - +.azureedge.net
+  - +.blob.core.windows.net
+  - +.cdn.cloudflare.net
+  - +.openaicom.imgix.net
+  - +.livekit.cloud
+  - +.auth0.com
+  - +.stripe.com
+  - +.intercom.io
+  - +.intercomcdn.com
+  - +.segment.io
+  - +.sentry.io
+  - +.statsig.com
+  - +.statsigapi.net
 
-  # ===== OpenAI API / 边缘网络 =====
-  - DOMAIN-SUFFIX,openai-api.arkoselabs.com
-  - DOMAIN-SUFFIX,arkoselabs.com
-  - DOMAIN-SUFFIX,azureedge.net
-  - DOMAIN-SUFFIX,blob.core.windows.net
+  # Gemini
+  - +.gemini.google.com
+  - +.googleapis.com
+  - +.deepmind.com
+  - +.deepmind.google
+  - +.generativeai.google
+  - +.antigravity.google
+  - +.antigravity-unleash.goog
 
-  # ===== OpenAI CDN / 加速 =====
-  - DOMAIN-SUFFIX,cdn.cloudflare.net
-  - DOMAIN-SUFFIX,openaicom.imgix.net
-
-  # ===== OpenAI 实时通信（语音/流式）=====
-  - DOMAIN-SUFFIX,livekit.cloud
-  - DOMAIN-SUFFIX,turn.livekit.cloud
-
-  # ===== OpenAI 依赖服务 =====
-  - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,segment.io
-  - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-SUFFIX,statsig.com
-  - DOMAIN-SUFFIX,statsigapi.net
-
-  # ===== Google Gemini / AI =====
-  - DOMAIN-SUFFIX,gemini.google.com
-  - DOMAIN-SUFFIX,antigravity.google
-  - DOMAIN-SUFFIX,bard.google.com
-  - DOMAIN-SUFFIX,deepmind.com
-  - DOMAIN-SUFFIX,deepmind.google
-  - DOMAIN-SUFFIX,antigravity-unleash.goog
-
-  # ===== Google AI API =====
-  - DOMAIN-SUFFIX,ai.google.dev
-  - DOMAIN-SUFFIX,generativeai.google
-  - DOMAIN-SUFFIX,generativelanguage.googleapis.com
-  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
-
-  # ===== Claude / Anthropic =====
-  - DOMAIN-SUFFIX,anthropic.com
-  - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,clau.de
-  - DOMAIN-SUFFIX,claudeusercontent.com
-  - DOMAIN,api.anthropic.com
-  - DOMAIN,console.anthropic.com
-  - DOMAIN,statsig.anthropic.com
-
-  # ===== Claude 依赖 =====
-  - DOMAIN-SUFFIX,intercomcdn.com
-  - DOMAIN-SUFFIX,intercom.io
-  - DOMAIN-SUFFIX,sentry.io
-
-  # ===== 关键词补充（AI开发常见）与泛匹配 =====
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-KEYWORD,gemini
-  - DOMAIN-KEYWORD,colab
-  - DOMAIN-KEYWORD,anthropic
-  - DOMAIN-KEYWORD,claude
-  - DOMAIN-KEYWORD,generativelanguage
+  # Claude
+  - +.anthropic.com
+  - +.claude.ai
+  - +.clau.de
+  - +.claudeusercontent.com
