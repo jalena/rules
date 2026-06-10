@@ -15,6 +15,7 @@ payload:
 
   - +.android.com
   - +.dl.google.com
+  - +.run.app
 
   - +.docker.com
   - +.docker.io
