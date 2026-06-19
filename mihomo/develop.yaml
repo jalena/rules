@@ -24,3 +24,6 @@ payload:
   - +.esm.sh
 
   - +.python.org
+
+  - +.sonatype.com
+  - +.mvnrepository.com
