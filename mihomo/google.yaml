@@ -6,6 +6,7 @@ payload:
   # ===== Google 基础依赖与分析 =====
   - +.googleapis.com
   - +.apis.google.com
+  - +.withgoogle.com
   - +.googletagmanager.com
   - +.google-analytics.com
   - +.googleusercontent.com
