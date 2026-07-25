@@ -11,7 +11,8 @@ payload:
   - +.google-analytics.com
   - +.googleusercontent.com
   - +.nel.goog
-
+  - +.usercontent.goog
+  
   # ===== Google 核心搜索与日常服务 =====
   - +.google.com
   - +.google.com.hk
