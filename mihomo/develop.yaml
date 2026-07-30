@@ -19,6 +19,7 @@ payload:
 
   - +.docker.com
   - +.docker.io
+  - +.ghcr.io
 
   - +.jsdelivr.net
   - +.esm.sh
