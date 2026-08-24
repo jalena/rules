@@ -1,38 +1,12 @@
 payload:
-  - +.gradle.org
-  - +.maven.org
-  - +.apache.org
-  - +.jitpack.io
-
-  - +.jetbrains.com
-  - +.intellij.net
-
   - +.github.com
   - +.github.io
   - +.githubusercontent.com
   - +.githubassets.com
   - +.githubcopilot.com
 
-  - +.android.com
-  - +.dl.google.com
-  - +.run.app
 
-  - +.docker.com
-  - +.docker.io
-  - +.ghcr.io
 
-  - +.jsdelivr.net
-  - +.esm.sh
 
-  - +.python.org
-  - +.odoo.com
 
-  - +.sonatype.com
-  - +.mvnrepository.com
 
-  - +.schemastore.org
-
-  - +.navicat.com
-  - +.v2ex.com
-
-  - +.brew.sh
