@@ -8,8 +8,6 @@ payload:
   - +.apis.google.com
   - +.withgoogle.com
   - +.googletagmanager.com
-  - +.google-analytics.com
-  - +.googleusercontent.com
   - +.nel.goog
   - +.usercontent.goog
   
@@ -18,4 +16,5 @@ payload:
   - +.google.com.hk
   - +.google.com.sg
   - +.gmail.com
-  - +.gstatic.com
+
+  - dns.google

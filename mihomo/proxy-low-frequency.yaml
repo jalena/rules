@@ -1,5 +1,7 @@
 payload:
   - +.jetbrains.com
+  - +.jetbrains.cloud
+  - +.jetbrains.ai
   - +.intellij.net
 
   - +.gradle.org
@@ -15,6 +17,7 @@ payload:
   - +.docker.io
   - +.ghcr.io
 
+  - +.gstatic.com
   - +.jsdelivr.net
   - +.esm.sh
 
@@ -30,3 +33,6 @@ payload:
   - +.v2ex.com
 
   - +.brew.sh
+
+  - +.google-analytics.com
+  - +.googleusercontent.com
