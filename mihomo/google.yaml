@@ -14,7 +14,10 @@ payload:
   # ===== Google 核心搜索与日常服务 =====
   - +.google.com
   - +.google.com.hk
+  - +.google.co.jp
   - +.google.com.sg
+  - +.google.co.kr
+  - +.google.co.uk
   - +.gmail.com
 
   - dns.google
