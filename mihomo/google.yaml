@@ -1,5 +1,4 @@
 payload:
-
   - +.ai.google.dev
   - +.generativeai.google
 
@@ -8,6 +7,7 @@ payload:
   - +.apis.google.com
   - +.withgoogle.com
   - +.googletagmanager.com
+  - +.googleusercontent.com
   - +.nel.goog
   - +.usercontent.goog
   
