@@ -9,19 +9,8 @@ payload:
   - +.apache.org
   - +.jitpack.io
 
-  - +.android.com
-  - +.dl.google.com
-  - +.run.app
-
-  - +.docker.com
-  - +.docker.io
-  - +.ghcr.io
-
-  - +.gstatic.com
-  - +.jsdelivr.net
   - +.esm.sh
 
-  - +.python.org
   - +.odoo.com
 
   - +.sonatype.com
@@ -30,7 +19,3 @@ payload:
   - +.schemastore.org
 
   - +.navicat.com
-  - +.brew.sh
-
-  - +.google-analytics.com
-  - +.googleusercontent.com
