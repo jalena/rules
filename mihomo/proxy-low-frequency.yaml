@@ -3,6 +3,7 @@ payload:
   - +.jetbrains.cloud
   - +.jetbrains.ai
   - +.intellij.net
+  - +.navicat.com
 
   - +.gradle.org
   - +.maven.org
@@ -18,6 +19,11 @@ payload:
 
   - +.schemastore.org
 
-  - +.navicat.com
+
   - +.gstatic.com
+  - +.fonts.googleapis.com
+  - +.fonts.gstatic.com
+  - +.themes.googleusercontent.com
+  - +.recaptcha.net
+  
   - cloudflare-dns.com

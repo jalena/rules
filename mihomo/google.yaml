@@ -1,19 +1,29 @@
 payload:
+  # ===== Gemini 服务与 AGY CLI =====
+  - gemini.google.com
+  - gemini.google
+  - generativelanguage.googleapis.com
+  - aistudio.google.com
+  - antigravity.google
+  - antigravity-unleash.goog
+  - aiplatform.googleapis.com
   - ai.google.dev
   - +.ai.google.dev
-  - antigravity-unleash.goog
   - +.generativeai.google
 
   # ===== Google 基础依赖与分析 =====
+  - dns.google
   - play.googleapis.com
+  - +.nel.goog
   - +.googleapis.com
   - +.apis.google.com
   - +.withgoogle.com
   - +.googletagmanager.com
   - +.googleusercontent.com
-  - +.nel.goog
   - +.usercontent.goog
-  
+  - +.accounts.google.com
+  - +.myaccount.google.com
+
   # ===== Google 核心搜索与日常服务 =====
   - +.google.com
   - +.google.com.hk
@@ -22,5 +32,8 @@ payload:
   - +.google.co.kr
   - +.google.co.uk
   - +.gmail.com
-
-  - dns.google
+  - +.translate.google.com
+  - +.translate.googleapis.com
+  - +.ggpht.com
+  - +.cloud.google.com
+  - +.firebaseio.com
