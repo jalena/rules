@@ -19,11 +19,10 @@ payload:
 
   - +.schemastore.org
 
-
   - +.gstatic.com
   - +.fonts.googleapis.com
   - +.fonts.gstatic.com
   - +.themes.googleusercontent.com
   - +.recaptcha.net
-  
+
   - cloudflare-dns.com
