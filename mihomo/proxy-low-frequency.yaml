@@ -26,3 +26,5 @@ payload:
   - +.recaptcha.net
 
   - cloudflare-dns.com
+
+  - +.v2ex.com
