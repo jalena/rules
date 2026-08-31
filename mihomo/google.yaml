@@ -1,8 +1,11 @@
 payload:
+  - ai.google.dev
   - +.ai.google.dev
+  - antigravity-unleash.goog
   - +.generativeai.google
 
   # ===== Google 基础依赖与分析 =====
+  - play.googleapis.com
   - +.googleapis.com
   - +.apis.google.com
   - +.withgoogle.com
