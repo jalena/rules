@@ -1,4 +1,14 @@
 payload:
+
+  - +.gstatic.com
+  - dl.google.com
+  - storage.googleapis.com
+  - +.fonts.googleapis.com
+  - +.fonts.gstatic.com
+  - +.themes.googleusercontent.com
+  - +.recaptcha.net
+  - +.run.app
+  
   - +.jetbrains.com
   - +.jetbrains.cloud
   - +.jetbrains.ai
@@ -19,16 +29,9 @@ payload:
 
   - +.schemastore.org
 
-  - +.gstatic.com
-  - dl.google.com
-  - +.fonts.googleapis.com
-  - +.fonts.gstatic.com
-  - +.themes.googleusercontent.com
-  - +.recaptcha.net
-
   - cloudflare-dns.com
 
   - +.v2ex.com
   - +.vultr.com
 
-  - +.run.app
+  
