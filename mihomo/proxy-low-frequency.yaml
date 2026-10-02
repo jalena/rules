@@ -32,6 +32,7 @@ payload:
   - cloudflare-dns.com
 
   - +.v2ex.com
+  - +.v2ex.pro
   - +.vultr.com
 
   - +.gvt1.com
