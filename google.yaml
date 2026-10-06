@@ -1,7 +1,7 @@
 payload:
   # ===== Gemini 服务与 AGY CLI =====
-  - gemini.google.com
   - gemini.google
+  - gemini.google.com
   - generativelanguage.googleapis.com
   - daily-cloudcode-pa.googleapis.com
   - aistudio.google.com

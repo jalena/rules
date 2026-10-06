@@ -1,34 +1,21 @@
 payload:
 
   - +.gstatic.com
-  - dl.google.com
-  - storage.googleapis.com
   - +.fonts.googleapis.com
   - +.fonts.gstatic.com
   - +.themes.googleusercontent.com
   - +.recaptcha.net
-  - +.run.app
-  
+
   - +.jetbrains.com
   - +.jetbrains.cloud
   - +.jetbrains.ai
   - +.intellij.net
   - +.navicat.com
 
-  - +.gradle.org
-  - +.maven.org
-  - +.apache.org
-  - +.jitpack.io
-
   - +.esm.sh
-
   - +.odoo.com
 
-  - +.sonatype.com
-  - +.mvnrepository.com
-
   - +.schemastore.org
-
   - cloudflare-dns.com
 
   - +.v2ex.com
@@ -41,3 +28,4 @@ payload:
   - +.digicert.com
   - +.comodoca.com
   - +.usertrust.com
+  - +.proxifier.com
