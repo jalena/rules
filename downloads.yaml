@@ -1,0 +1,10 @@
+payload:
+  - dl.google.com
+  - storage.googleapis.com
+  - +.run.app
+  - +.gradle.org
+  - +.maven.org
+  - +.apache.org
+  - +.jitpack.io
+  - +.sonatype.com
+  - +.mvnrepository.com
