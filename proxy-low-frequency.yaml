@@ -4,6 +4,7 @@ payload:
   - +.fonts.googleapis.com
   - +.fonts.gstatic.com
   - +.themes.googleusercontent.com
+  - +.android.com
   - +.recaptcha.net
 
   - +.esm.sh
